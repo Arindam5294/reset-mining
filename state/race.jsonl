@@ -101,3 +101,4 @@
 {"t":"2026-10-22T10:40:07.543Z","step":"race_start","v":3,"minutes":340,"poll_ms":2000,"lanes":4,"gap_ms":1100,"sources":["https://mempool.space","https://blockstream.info","https://mempool.emzy.de"]}
 {"t":"2026-10-22T10:55:08.505Z","step":"race_start","v":3,"minutes":340,"poll_ms":2000,"lanes":4,"gap_ms":1100,"sources":["https://mempool.space","https://blockstream.info","https://mempool.emzy.de"]}
 {"t":"2026-10-22T10:57:17.995Z","step":"lost","net_tip":972606,"target":972606,"since_seen_ms":5903}
+{"t":"2026-10-22T11:01:03.934Z","step":"lost","net_tip":972607,"target":972607,"since_seen_ms":4034}
