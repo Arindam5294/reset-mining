@@ -595,3 +595,8 @@
 {"t":"2026-10-22T11:37:26.243Z","step":"post","why":"retry","error":true,"ms":6159,"since_seen_ms":null,"raw":"Service unavailable or invalid response. Check the configured connection."}
 {"t":"2026-10-22T11:37:27.554Z","step":"post","why":"retry","error":true,"ms":4748,"since_seen_ms":170894,"first_seen":"https://mempool.space","ok":false,"outcome":"rejected","headers":1,"from_height":972614,"to_height":972614,"source_height":972614,"source":"http://127.0.0.1:45977","message":"The gateway is busy. Wait before trying again."}
 {"t":"2026-10-22T11:37:28.146Z","step":"lost","net_tip":972614,"target":972614,"since_seen_ms":171486}
+{"t":"2026-10-22T11:40:40.098Z","step":"post","why":"heartbeat","error":true,"ms":5001,"since_seen_ms":null,"raw":"Service unavailable or invalid response. Check the configured connection."}
+{"t":"2026-10-22T11:51:18.171Z","step":"post","why":"heartbeat","error":true,"ms":5002,"since_seen_ms":null,"raw":"Service unavailable or invalid response. Check the configured connection."}
+{"t":"2026-10-22T12:09:44.099Z","step":"post","why":"heartbeat","error":true,"ms":5002,"since_seen_ms":null,"raw":"Service unavailable or invalid response. Check the configured connection."}
+{"t":"2026-10-22T12:12:58.058Z","step":"post","why":"heartbeat","error":true,"ms":5002,"since_seen_ms":null,"raw":"Service unavailable or invalid response. Check the configured connection."}
+{"t":"2026-10-22T12:22:35.448Z","step":"lost","net_tip":972615,"target":972615,"since_seen_ms":3870}
