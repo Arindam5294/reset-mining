@@ -602,3 +602,11 @@
 {"t":"2026-10-22T12:22:35.448Z","step":"lost","net_tip":972615,"target":972615,"since_seen_ms":3870}
 {"t":"2026-10-22T12:42:51.842Z","step":"post","why":"push:mempool.space:972616","error":true,"ms":5000,"since_seen_ms":null,"raw":"Service unavailable or invalid response. Check the configured connection."}
 {"t":"2026-10-22T12:42:53.667Z","step":"lost","net_tip":972616,"target":972616,"since_seen_ms":6826}
+{"t":"2026-10-22T12:46:59.110Z","step":"post","why":"heartbeat","error":true,"ms":489,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-10-22T12:47:29.601Z","step":"post","why":"heartbeat","error":true,"ms":490,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-10-22T12:48:00.096Z","step":"post","why":"heartbeat","error":true,"ms":495,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-10-22T12:48:30.591Z","step":"post","why":"heartbeat","error":true,"ms":495,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-10-22T12:49:01.246Z","step":"post","why":"heartbeat","error":true,"ms":655,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-10-22T12:49:31.761Z","step":"post","why":"heartbeat","error":true,"ms":515,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-10-22T12:50:02.257Z","step":"post","why":"heartbeat","error":true,"ms":496,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-10-22T13:10:12.923Z","step":"lost","net_tip":972617,"target":972617,"since_seen_ms":4104}
