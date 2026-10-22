@@ -457,3 +457,4 @@
 {"t":"2026-10-22T11:13:33.630Z","step":"post","why":"retry","error":true,"ms":5423,"since_seen_ms":59951,"first_seen":"https://mempool.space","ok":false,"outcome":"unknown","headers":1,"from_height":972611,"to_height":972611,"source_height":972611,"source":"http://127.0.0.1:45977","message":"No reliable submission result was received. Check status and settlement before retrying; this action may already have been accepted."}
 {"t":"2026-10-22T11:13:33.631Z","step":"lost","net_tip":972611,"target":972610,"since_seen_ms":214787}
 {"t":"2026-10-22T11:17:53.194Z","step":"lost","net_tip":972612,"target":972612,"since_seen_ms":3854}
+{"t":"2026-10-22T11:33:37.427Z","step":"lost","net_tip":972613,"target":972613,"since_seen_ms":4143}
