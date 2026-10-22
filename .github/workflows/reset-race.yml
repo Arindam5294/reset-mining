@@ -1,0 +1,45 @@
+name: reset-race
+on:
+  workflow_dispatch:      # kicked every 15 min by the Cloudflare bot; a kick while running just queues the next stint
+concurrency:
+  group: reset-race
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  race:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Official RESET signer (pinned commit)
+        run: |
+          git clone -q https://github.com/Trac-Systems/reset /tmp/reset
+          git -C /tmp/reset checkout -q $(cat worker/RESET_COMMIT)
+      - uses: actions/cache@v4
+        with:
+          path: /tmp/reset/signer/node_modules
+          key: signer-${{ hashFiles('worker/RESET_COMMIT') }}
+      - run: cd /tmp/reset/signer && [ -d node_modules ] || npm ci --no-audit --no-fund
+      - name: Race new Bitcoin headers
+        env:
+          KEYSTORE: ${{ secrets.RESET_KEYSTORE }}
+          RESET_SIGNER_PASSWORD: ${{ secrets.RESET_SIGNER_PASSWORD }}
+        run: |
+          mkdir -p -m 700 /tmp/wallet
+          if [ -n "$KEYSTORE" ]; then (umask 077; printf '%s' "$KEYSTORE" > /tmp/wallet/keystore.json); fi
+          git config user.name reset-race; git config user.email reset-race@users.noreply.github.com
+          RESET_SIGNER_BIN=/tmp/reset/signer/bin/reset-signer.mjs RESET_SIGNER_DIRECTORY=/tmp/wallet \
+          STATE_DIR=state RACE_MINUTES=340 RACE_EVERY_S=8 RACE_PUSH=1 node worker/race.mjs
+          rm -rf /tmp/wallet
+      - name: Save race log
+        if: always()
+        run: |
+          git config user.name reset-race; git config user.email reset-race@users.noreply.github.com
+          git add state/race.jsonl state/race.svg 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -qm "race log"
+          for i in 1 2 3 4 5; do git push -q && exit 0; git pull -q --rebase -X theirs || { git rebase --abort; git pull -q --no-rebase -X ours; }; sleep $((i*3)); done; exit 1

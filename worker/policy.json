@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "max_lock": "1000000",
+  "allow_over": false,
+  "max_level": 1000,
+  "headers_every_min": 10,
+  "run_until": null,
+  "note": "Owner (2026-10-22): lock everything this dedicated wallet holds; overclaiming off. Worker never transfers, unlocks or withdraws."
+}
