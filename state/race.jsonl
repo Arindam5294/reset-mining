@@ -600,3 +600,5 @@
 {"t":"2026-10-22T12:09:44.099Z","step":"post","why":"heartbeat","error":true,"ms":5002,"since_seen_ms":null,"raw":"Service unavailable or invalid response. Check the configured connection."}
 {"t":"2026-10-22T12:12:58.058Z","step":"post","why":"heartbeat","error":true,"ms":5002,"since_seen_ms":null,"raw":"Service unavailable or invalid response. Check the configured connection."}
 {"t":"2026-10-22T12:22:35.448Z","step":"lost","net_tip":972615,"target":972615,"since_seen_ms":3870}
+{"t":"2026-10-22T12:42:51.842Z","step":"post","why":"push:mempool.space:972616","error":true,"ms":5000,"since_seen_ms":null,"raw":"Service unavailable or invalid response. Check the configured connection."}
+{"t":"2026-10-22T12:42:53.667Z","step":"lost","net_tip":972616,"target":972616,"since_seen_ms":6826}
