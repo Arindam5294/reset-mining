@@ -610,3 +610,4 @@
 {"t":"2026-10-22T12:49:31.761Z","step":"post","why":"heartbeat","error":true,"ms":515,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
 {"t":"2026-10-22T12:50:02.257Z","step":"post","why":"heartbeat","error":true,"ms":496,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
 {"t":"2026-10-22T13:10:12.923Z","step":"lost","net_tip":972617,"target":972617,"since_seen_ms":4104}
+{"t":"2026-10-22T13:59:05.974Z","step":"lost","net_tip":972619,"target":972619,"since_seen_ms":3881}
