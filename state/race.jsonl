@@ -744,3 +744,4 @@
 {"t":"2026-10-23T13:32:57.811Z","step":"lost","net_tip":972780,"target":972780,"since_seen_ms":3914}
 {"t":"2026-10-23T13:51:31.910Z","step":"lost","net_tip":972782,"target":972782,"since_seen_ms":3822}
 {"t":"2026-10-23T13:52:31.437Z","step":"lost","net_tip":972783,"target":972783,"since_seen_ms":3849}
+{"t":"2026-10-23T14:40:54.578Z","step":"race_end","calls":784,"posted":0}
