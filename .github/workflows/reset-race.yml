@@ -1,30 +1,44 @@
 name: reset-race
 on:
-  workflow_dispatch:      # kicked every 15 min by the Cloudflare bot; a kick while running just queues the next stint
-concurrency:
-  group: reset-race
-  cancel-in-progress: false
+  workflow_dispatch:      # kicked every 15 min by the Cloudflare bot; a kick while a stint runs exits green in seconds
+# No concurrency group: GitHub cancelled every spare queued kick after 15 min, which looked like failures.
+# The guard step below lets only the oldest live run race; later kicks skip.
 permissions:
   contents: write
+  actions: read
 jobs:
   race:
     runs-on: ubuntu-latest
     timeout-minutes: 355
     steps:
+      - name: Skip if a stint is already racing
+        id: guard
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          n=$(gh api "repos/${{ github.repository }}/actions/workflows/reset-race.yml/runs?per_page=30" \
+            --jq '[.workflow_runs[] | select(.id < ${{ github.run_id }} and (.status=="in_progress" or .status=="queued" or .status=="pending" or .status=="waiting"))] | length' || echo 0)
+          if [ "${n:-0}" -gt 0 ]; then echo "skip=true" >> "$GITHUB_OUTPUT"; echo "A stint is already racing; nothing to do."; fi
       - uses: actions/checkout@v4
+        if: steps.guard.outputs.skip != 'true'
       - uses: actions/setup-node@v4
+        if: steps.guard.outputs.skip != 'true'
         with:
           node-version: '24'
       - name: Official RESET signer (pinned commit)
+        if: steps.guard.outputs.skip != 'true'
         run: |
           git clone -q https://github.com/Trac-Systems/reset /tmp/reset
           git -C /tmp/reset checkout -q $(cat worker/RESET_COMMIT)
       - uses: actions/cache@v4
+        if: steps.guard.outputs.skip != 'true'
         with:
           path: /tmp/reset/signer/node_modules
           key: signer-${{ hashFiles('worker/RESET_COMMIT') }}
-      - run: cd /tmp/reset/signer && [ -d node_modules ] || npm ci --no-audit --no-fund
+      - if: steps.guard.outputs.skip != 'true'
+        run: cd /tmp/reset/signer && [ -d node_modules ] || npm ci --no-audit --no-fund
       - name: Race new Bitcoin headers
+        if: steps.guard.outputs.skip != 'true'
         env:
           KEYSTORE: ${{ secrets.RESET_KEYSTORE }}
           RESET_SIGNER_PASSWORD: ${{ secrets.RESET_SIGNER_PASSWORD }}
@@ -36,7 +50,7 @@ jobs:
           STATE_DIR=state RACE_MINUTES=340 RACE_EVERY_S=8 RACE_PUSH=1 node worker/race.mjs
           rm -rf /tmp/wallet
       - name: Save race log
-        if: always()
+        if: always() && steps.guard.outputs.skip != 'true'
         run: |
           git config user.name reset-race; git config user.email reset-race@users.noreply.github.com
           git add state/race.jsonl state/race.svg 2>/dev/null || true
