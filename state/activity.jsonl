@@ -376,3 +376,4 @@
 {"t":"2026-10-24T02:45:28.383Z","step":"pass","tip":972863,"counted":972858,"round":527,"window_open":false,"balance":"0.01000000","deposit":"0.00000000","claim":null,"strikes":0,"exits":0}
 {"t":"2026-10-24T02:55:37.385Z","step":"post_headers","outcome":"nothing_new","tip":972863}
 {"t":"2026-10-24T02:55:37.385Z","step":"pass","tip":972863,"counted":972858,"round":527,"window_open":false,"balance":"0.01000000","deposit":"0.00000000","claim":null,"strikes":0,"exits":0}
+{"t":"2026-10-24T03:00:28.222Z","step":"pass","tip":972865,"counted":972860,"round":528,"window_open":true,"balance":"0.01000000","deposit":"0.00000000","claim":null,"strikes":0,"exits":0}
