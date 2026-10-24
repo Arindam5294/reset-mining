@@ -907,3 +907,5 @@
 {"t":"2026-10-24T16:47:17.421Z","step":"lost","net_tip":972950,"target":972950,"since_seen_ms":3710}
 {"t":"2026-10-24T17:27:04.907Z","step":"lost","net_tip":972951,"target":972951,"since_seen_ms":3726}
 {"t":"2026-10-24T17:33:14.020Z","step":"lost","net_tip":972952,"target":972952,"since_seen_ms":3725}
+{"t":"2026-10-24T17:47:06.882Z","step":"post","why":"push:mempool.space:972954","error":true,"ms":975,"since_seen_ms":null,"raw":"State changed during puzzle work; try again with fresh state"}
+{"t":"2026-10-24T17:47:10.514Z","step":"lost","net_tip":972954,"target":972954,"since_seen_ms":4608}
