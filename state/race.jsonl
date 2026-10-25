@@ -1051,3 +1051,16 @@
 {"t":"2026-10-25T15:26:00.772Z","step":"lost","net_tip":973089,"target":973089,"since_seen_ms":3790}
 {"t":"2026-10-25T15:39:28.396Z","step":"post","why":"push:mempool.space:973090","error":true,"ms":416,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
 {"t":"2026-10-25T15:39:28.396Z","step":"lost","net_tip":973090,"target":973090,"since_seen_ms":3718}
+{"t":"2026-10-25T15:39:58.819Z","step":"post","why":"heartbeat","error":true,"ms":418,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-10-25T15:40:29.216Z","step":"post","why":"heartbeat","error":true,"ms":397,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-10-25T15:40:59.626Z","step":"post","why":"heartbeat","error":true,"ms":410,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-10-25T15:41:30.030Z","step":"post","why":"heartbeat","error":true,"ms":403,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-10-25T15:41:40.428Z","step":"post","why":"push:mempool.space:973091","error":true,"ms":413,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-10-25T15:41:41.486Z","step":"post","why":"push:mempool.space:973091","error":true,"ms":371,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-10-25T15:41:42.336Z","step":"post","why":"retry","error":true,"ms":120,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-10-25T15:41:43.725Z","step":"post","why":"push:mempool.space:973091","error":true,"ms":409,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-10-25T15:41:44.797Z","step":"post","why":"push:mempool.space:973091","error":true,"ms":381,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-10-25T15:41:45.890Z","step":"post","why":"retry","error":true,"ms":374,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-10-25T15:41:52.112Z","step":"post","why":"retry","error":true,"ms":5495,"since_seen_ms":12098,"first_seen":"https://mempool.space","ok":false,"outcome":"unknown","headers":1,"from_height":973091,"to_height":973091,"source_height":973091,"source":"http://127.0.0.1:34717","message":"No reliable submission result was received. Check status and settlement before retrying; this action may already have been accepted."}
+{"t":"2026-10-25T15:41:53.402Z","step":"post","why":"retry","error":true,"ms":5685,"since_seen_ms":13388,"first_seen":"https://mempool.space","ok":false,"outcome":"unknown","headers":1,"from_height":973091,"to_height":973091,"source_height":973091,"source":"http://127.0.0.1:34717","message":"No reliable submission result was received. Check status and settlement before retrying; this action may already have been accepted."}
+{"t":"2026-10-25T15:41:53.402Z","step":"lost","net_tip":973091,"target":973091,"since_seen_ms":13388}
