@@ -1019,3 +1019,6 @@
 {"t":"2026-10-25T09:51:28.100Z","step":"lost","net_tip":973054,"target":973054,"since_seen_ms":3932}
 {"t":"2026-10-25T09:53:02.627Z","step":"lost","net_tip":973055,"target":973055,"since_seen_ms":3874}
 {"t":"2026-10-25T10:23:29.829Z","step":"lost","net_tip":973057,"target":973057,"since_seen_ms":4339}
+{"t":"2026-10-25T10:23:33.198Z","step":"post","why":"push:mempool.space:973058","error":true,"ms":995,"since_seen_ms":996,"first_seen":"https://mempool.space","ok":false,"outcome":"rejected","headers":1,"from_height":973058,"to_height":973058,"source_height":973058,"source":"http://127.0.0.1:33007","message":"The gateway is busy. Wait before trying again."}
+{"t":"2026-10-25T10:23:39.910Z","step":"post","why":"push:mempool.space:973058","error":true,"ms":6607,"since_seen_ms":7708,"first_seen":"https://mempool.space","ok":false,"outcome":"unknown","headers":1,"from_height":973058,"to_height":973058,"source_height":973058,"source":"http://127.0.0.1:33007","message":"No reliable submission result was received. Check status and settlement before retrying; this action may already have been accepted."}
+{"t":"2026-10-25T10:23:39.910Z","step":"lost","net_tip":973058,"target":973058,"since_seen_ms":7708}
