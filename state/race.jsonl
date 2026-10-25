@@ -999,3 +999,4 @@
 {"t":"2026-10-25T07:00:27.031Z","step":"race_start","v":3,"minutes":340,"poll_ms":2000,"lanes":4,"gap_ms":1100,"sources":["https://mempool.space","https://blockstream.info","https://mempool.emzy.de"]}
 {"t":"2026-10-25T07:05:26.982Z","step":"lost","net_tip":973035,"target":973035,"since_seen_ms":3836}
 {"t":"2026-10-25T07:12:52.642Z","step":"lost","net_tip":973036,"target":973036,"since_seen_ms":3833}
+{"t":"2026-10-25T07:17:06.661Z","step":"lost","net_tip":973037,"target":973037,"since_seen_ms":3841}
