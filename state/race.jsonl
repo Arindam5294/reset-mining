@@ -966,3 +966,5 @@
 {"t":"2026-10-25T02:32:13.211Z","step":"lost","net_tip":973004,"target":973004,"since_seen_ms":3789}
 {"t":"2026-10-25T02:37:16.977Z","step":"lost","net_tip":973005,"target":973005,"since_seen_ms":3794}
 {"t":"2026-10-25T02:52:22.305Z","step":"lost","net_tip":973006,"target":973006,"since_seen_ms":3953}
+{"t":"2026-10-25T02:52:25.982Z","step":"post","why":"push:mempool.space:973007","error":true,"ms":882,"since_seen_ms":883,"first_seen":"https://mempool.space","ok":false,"outcome":"rejected","headers":1,"from_height":973007,"to_height":973007,"source_height":973007,"source":"http://127.0.0.1:32977","message":"The gateway is busy. Wait before trying again."}
+{"t":"2026-10-25T02:52:29.718Z","step":"lost","net_tip":973007,"target":973007,"since_seen_ms":4619}
