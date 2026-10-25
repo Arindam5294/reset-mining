@@ -1049,3 +1049,5 @@
 {"t":"2026-10-25T14:49:01.171Z","step":"lost","net_tip":973085,"target":973085,"since_seen_ms":3847}
 {"t":"2026-10-25T15:18:56.832Z","step":"lost","net_tip":973088,"target":973088,"since_seen_ms":3833}
 {"t":"2026-10-25T15:26:00.772Z","step":"lost","net_tip":973089,"target":973089,"since_seen_ms":3790}
+{"t":"2026-10-25T15:39:28.396Z","step":"post","why":"push:mempool.space:973090","error":true,"ms":416,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-10-25T15:39:28.396Z","step":"lost","net_tip":973090,"target":973090,"since_seen_ms":3718}
