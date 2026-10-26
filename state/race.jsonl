@@ -1247,3 +1247,4 @@
 {"t":"2026-10-26T17:30:27.142Z","step":"race_start","v":3,"minutes":340,"poll_ms":2000,"lanes":4,"gap_ms":1100,"sources":["https://mempool.space","https://blockstream.info","https://mempool.emzy.de"]}
 {"t":"2026-10-26T18:09:50.526Z","step":"lost","net_tip":973263,"target":973263,"since_seen_ms":3770}
 {"t":"2026-10-26T18:11:25.553Z","step":"lost","net_tip":973264,"target":973264,"since_seen_ms":3837}
+{"t":"2026-10-26T18:16:49.914Z","step":"lost","net_tip":973265,"target":973265,"since_seen_ms":3770}
