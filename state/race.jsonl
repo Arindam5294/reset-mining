@@ -1153,3 +1153,4 @@
 {"t":"2026-10-26T04:17:39.272Z","step":"post","why":"push:mempool.space:973184","error":true,"ms":2314,"since_seen_ms":null,"raw":"State changed during puzzle work; try again with fresh state"}
 {"t":"2026-10-26T04:17:43.951Z","step":"post","why":"push:mempool.space:973184","error":true,"ms":8093,"since_seen_ms":8094,"first_seen":"https://mempool.space","ok":false,"outcome":"unknown","headers":1,"from_height":973184,"to_height":973184,"source_height":973184,"source":"http://127.0.0.1:36193","message":"No reliable submission result was received. Check status and settlement before retrying; this action may already have been accepted."}
 {"t":"2026-10-26T04:17:43.952Z","step":"lost","net_tip":973184,"target":973184,"since_seen_ms":8095}
+{"t":"2026-10-26T04:32:29.646Z","step":"lost","net_tip":973185,"target":973185,"since_seen_ms":3719}
