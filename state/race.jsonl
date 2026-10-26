@@ -1231,3 +1231,12 @@
 {"t":"2026-10-26T16:22:13.887Z","step":"lost","net_tip":973255,"target":973255,"since_seen_ms":3959}
 {"t":"2026-10-26T16:24:57.221Z","step":"lost","net_tip":973256,"target":973256,"since_seen_ms":3974}
 {"t":"2026-10-26T16:35:39.623Z","step":"lost","net_tip":973257,"target":973257,"since_seen_ms":3774}
+{"t":"2026-10-26T16:46:03.875Z","step":"post","why":"push:mempool.space:973259","error":true,"ms":988,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:40305 is unavailable. Try again later or set another source."}
+{"t":"2026-10-26T16:46:04.777Z","step":"post","why":"push:mempool.space:973259","error":true,"ms":789,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:40305 is unavailable. Try again later or set another source."}
+{"t":"2026-10-26T16:46:06.595Z","step":"post","why":"push:mempool.space:973259","error":true,"ms":1507,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:40305 is unavailable. Try again later or set another source."}
+{"t":"2026-10-26T16:46:07.013Z","step":"post","why":"push:mempool.space:973259","error":true,"ms":825,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:40305 is unavailable. Try again later or set another source."}
+{"t":"2026-10-26T16:46:07.812Z","step":"post","why":"retry","error":true,"ms":524,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:40305 is unavailable. Try again later or set another source."}
+{"t":"2026-10-26T16:46:09.204Z","step":"post","why":"retry","error":true,"ms":815,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:40305 is unavailable. Try again later or set another source."}
+{"t":"2026-10-26T16:46:10.465Z","step":"post","why":"retry","error":true,"ms":976,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:40305 is unavailable. Try again later or set another source."}
+{"t":"2026-10-26T16:46:11.405Z","step":"post","why":"retry","error":true,"ms":816,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:40305 is unavailable. Try again later or set another source."}
+{"t":"2026-10-26T16:46:15.461Z","step":"lost","net_tip":973259,"target":973259,"since_seen_ms":12575}
