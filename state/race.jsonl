@@ -1308,3 +1308,6 @@
 {"t":"2026-10-26T21:30:14.649Z","step":"lost","net_tip":973296,"target":973296,"since_seen_ms":3840}
 {"t":"2026-10-26T21:45:26.303Z","step":"race_start","v":3,"minutes":340,"poll_ms":2000,"lanes":4,"gap_ms":1100,"sources":["https://mempool.space","https://blockstream.info","https://mempool.emzy.de"]}
 {"t":"2026-10-26T22:12:16.971Z","step":"lost","net_tip":973297,"target":973297,"since_seen_ms":3869}
+{"t":"2026-10-26T22:12:30.592Z","step":"post","why":"push:mempool.space:973298","error":true,"ms":1132,"since_seen_ms":1133,"first_seen":"https://mempool.space","ok":false,"outcome":"rejected","headers":1,"from_height":973298,"to_height":973298,"source_height":973298,"source":"http://127.0.0.1:42547","message":"The gateway is busy. Wait before trying again."}
+{"t":"2026-10-26T22:12:31.374Z","step":"post","why":"push:mempool.space:973298","error":true,"ms":814,"since_seen_ms":null,"raw":"State changed during puzzle work; try again with fresh state"}
+{"t":"2026-10-26T22:12:35.610Z","step":"lost","net_tip":973298,"target":973298,"since_seen_ms":6151}
