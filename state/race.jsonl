@@ -1431,3 +1431,8 @@
 {"t":"2026-10-27T09:15:29.682Z","step":"race_start","v":3,"minutes":340,"poll_ms":2000,"lanes":4,"gap_ms":1100,"sources":["https://mempool.space","https://blockstream.info","https://mempool.emzy.de"]}
 {"t":"2026-10-27T09:21:27.388Z","step":"lost","net_tip":973377,"target":973377,"since_seen_ms":3824}
 {"t":"2026-10-27T09:37:33.275Z","step":"lost","net_tip":973378,"target":973378,"since_seen_ms":3809}
+{"t":"2026-10-27T09:38:03.720Z","step":"post","why":"heartbeat","error":true,"ms":436,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-10-27T09:38:34.156Z","step":"post","why":"heartbeat","error":true,"ms":437,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-10-27T09:39:04.593Z","step":"post","why":"heartbeat","error":true,"ms":436,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-10-27T09:39:35.030Z","step":"post","why":"heartbeat","error":true,"ms":438,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-10-27T09:40:56.183Z","step":"lost","net_tip":973379,"target":973379,"since_seen_ms":3787}
