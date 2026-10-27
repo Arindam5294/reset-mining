@@ -1512,3 +1512,9 @@
 {"t":"2026-10-27T17:48:43.786Z","step":"lost","net_tip":973438,"target":973438,"since_seen_ms":3714}
 {"t":"2026-10-27T17:54:26.274Z","step":"lost","net_tip":973439,"target":973439,"since_seen_ms":3732}
 {"t":"2026-10-27T18:18:44.505Z","step":"lost","net_tip":973440,"target":973440,"since_seen_ms":3717}
+{"t":"2026-10-27T18:21:11.786Z","step":"post","why":"push:mempool.space:973441","error":true,"ms":1002,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43675 is unavailable. Try again later or set another source."}
+{"t":"2026-10-27T18:21:12.624Z","step":"post","why":"push:mempool.space:973441","error":true,"ms":739,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43675 is unavailable. Try again later or set another source."}
+{"t":"2026-10-27T18:21:14.206Z","step":"post","why":"retry","error":true,"ms":1219,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43675 is unavailable. Try again later or set another source."}
+{"t":"2026-10-27T18:21:15.434Z","step":"post","why":"push:mempool.space:973441","error":true,"ms":1347,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43675 is unavailable. Try again later or set another source."}
+{"t":"2026-10-27T18:21:15.722Z","step":"post","why":"retry","error":true,"ms":535,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43675 is unavailable. Try again later or set another source."}
+{"t":"2026-10-27T18:21:20.011Z","step":"lost","net_tip":973441,"target":973441,"since_seen_ms":9228}
