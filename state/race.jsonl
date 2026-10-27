@@ -1528,3 +1528,6 @@
 {"t":"2026-10-27T19:06:42.419Z","step":"lost","net_tip":973444,"target":973444,"since_seen_ms":3737}
 {"t":"2026-10-27T19:15:04.020Z","step":"lost","net_tip":973445,"target":973445,"since_seen_ms":3712}
 {"t":"2026-10-27T19:23:52.391Z","step":"lost","net_tip":973446,"target":973446,"since_seen_ms":3721}
+{"t":"2026-10-27T19:28:30.095Z","step":"post","why":"push:mempool.space:973447","error":true,"ms":559,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43675 is unavailable. Try again later or set another source."}
+{"t":"2026-10-27T19:28:31.396Z","step":"post","why":"push:mempool.space:973447","error":true,"ms":759,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43675 is unavailable. Try again later or set another source."}
+{"t":"2026-10-27T19:28:35.709Z","step":"lost","net_tip":973447,"target":973447,"since_seen_ms":6174}
