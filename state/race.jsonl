@@ -1525,3 +1525,4 @@
 {"t":"2026-10-27T19:02:47.295Z","step":"post","why":"retry","error":true,"ms":591,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43675 is unavailable. Try again later or set another source."}
 {"t":"2026-10-27T19:02:48.567Z","step":"post","why":"push:mempool.space:973443","error":true,"ms":763,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43675 is unavailable. Try again later or set another source."}
 {"t":"2026-10-27T19:02:52.623Z","step":"lost","net_tip":973443,"target":973443,"since_seen_ms":9222}
+{"t":"2026-10-27T19:06:42.419Z","step":"lost","net_tip":973444,"target":973444,"since_seen_ms":3737}
