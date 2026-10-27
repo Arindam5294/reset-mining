@@ -1452,3 +1452,9 @@
 {"t":"2026-10-27T11:07:36.009Z","step":"lost","net_tip":973385,"target":973385,"since_seen_ms":3786}
 {"t":"2026-10-27T11:14:58.929Z","step":"lost","net_tip":973386,"target":973386,"since_seen_ms":3917}
 {"t":"2026-10-27T11:23:02.038Z","step":"lost","net_tip":973387,"target":973387,"since_seen_ms":3822}
+{"t":"2026-10-27T11:36:06.105Z","step":"post","why":"push:mempool.space:973388","error":true,"ms":1213,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:34595 is unavailable. Try again later or set another source."}
+{"t":"2026-10-27T11:36:06.811Z","step":"post","why":"push:mempool.space:973388","error":true,"ms":819,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:34595 is unavailable. Try again later or set another source."}
+{"t":"2026-10-27T11:36:07.893Z","step":"post","why":"push:mempool.space:973388","error":true,"ms":801,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:34595 is unavailable. Try again later or set another source."}
+{"t":"2026-10-27T11:36:08.662Z","step":"post","why":"retry","error":true,"ms":470,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:34595 is unavailable. Try again later or set another source."}
+{"t":"2026-10-27T11:36:09.764Z","step":"post","why":"retry","error":true,"ms":472,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:34595 is unavailable. Try again later or set another source."}
+{"t":"2026-10-27T11:36:14.172Z","step":"lost","net_tip":973388,"target":973388,"since_seen_ms":9281}
