@@ -1551,3 +1551,4 @@
 {"t":"2026-10-27T21:20:26.146Z","step":"post","why":"retry","error":true,"ms":539,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:45175 is unavailable. Try again later or set another source."}
 {"t":"2026-10-27T21:20:31.183Z","step":"lost","net_tip":973459,"target":973459,"since_seen_ms":9979}
 {"t":"2026-10-27T21:22:11.591Z","step":"lost","net_tip":973460,"target":973460,"since_seen_ms":4053}
+{"t":"2026-10-27T21:27:26.735Z","step":"lost","net_tip":973461,"target":973461,"since_seen_ms":3730}
