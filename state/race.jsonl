@@ -1422,3 +1422,4 @@
 {"t":"2026-10-27T08:09:14.364Z","step":"post","why":"heartbeat","error":true,"ms":308,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
 {"t":"2026-10-27T08:09:44.670Z","step":"post","why":"heartbeat","error":true,"ms":306,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
 {"t":"2026-10-27T08:18:48.942Z","step":"lost","net_tip":973371,"target":973371,"since_seen_ms":3732}
+{"t":"2026-10-27T08:27:19.724Z","step":"lost","net_tip":973372,"target":973372,"since_seen_ms":3711}
