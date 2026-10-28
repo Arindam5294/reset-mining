@@ -1719,3 +1719,4 @@
 {"t":"2026-10-28T18:38:08.464Z","step":"post","why":"retry","error":true,"ms":1058,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:41601 is unavailable. Try again later or set another source."}
 {"t":"2026-10-28T18:38:13.492Z","step":"lost","net_tip":973581,"target":973581,"since_seen_ms":15992}
 {"t":"2026-10-28T18:46:04.442Z","step":"lost","net_tip":973582,"target":973582,"since_seen_ms":3718}
+{"t":"2026-10-28T18:46:09.572Z","step":"lost","net_tip":973583,"target":973583,"since_seen_ms":3720}
