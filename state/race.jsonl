@@ -1705,3 +1705,4 @@
 {"t":"2026-10-28T17:47:40.276Z","step":"post","why":"poll:blockstream.info:973578","error":true,"ms":964,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:41601 is unavailable. Try again later or set another source."}
 {"t":"2026-10-28T17:47:41.313Z","step":"post","why":"poll:blockstream.info:973578","error":true,"ms":900,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:41601 is unavailable. Try again later or set another source."}
 {"t":"2026-10-28T17:47:41.313Z","step":"lost","net_tip":973578,"target":973578,"since_seen_ms":4203}
+{"t":"2026-10-28T18:06:06.478Z","step":"lost","net_tip":973579,"target":973579,"since_seen_ms":3884}
