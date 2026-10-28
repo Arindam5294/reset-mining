@@ -1697,3 +1697,7 @@
 {"t":"2026-10-28T15:48:29.963Z","step":"lost","net_tip":973574,"target":973574,"since_seen_ms":3747}
 {"t":"2026-10-28T16:15:57.258Z","step":"lost","net_tip":973575,"target":973575,"since_seen_ms":3882}
 {"t":"2026-10-28T16:56:14.280Z","step":"lost","net_tip":973576,"target":973576,"since_seen_ms":3744}
+{"t":"2026-10-28T17:04:16.673Z","step":"post","why":"push:mempool.space:973577","error":true,"ms":2008,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:41601 is unavailable. Try again later or set another source."}
+{"t":"2026-10-28T17:04:17.639Z","step":"post","why":"push:mempool.space:973577","error":true,"ms":772,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:41601 is unavailable. Try again later or set another source."}
+{"t":"2026-10-28T17:04:18.765Z","step":"post","why":"push:mempool.space:973577","error":true,"ms":797,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:41601 is unavailable. Try again later or set another source."}
+{"t":"2026-10-28T17:04:18.765Z","step":"lost","net_tip":973577,"target":973577,"since_seen_ms":4101}
