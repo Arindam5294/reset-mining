@@ -1560,3 +1560,4 @@
 {"t":"2026-10-27T23:07:58.450Z","step":"lost","net_tip":973467,"target":973467,"since_seen_ms":3721}
 {"t":"2026-10-27T23:24:46.104Z","step":"lost","net_tip":973469,"target":973469,"since_seen_ms":3745}
 {"t":"2026-10-27T23:58:52.563Z","step":"lost","net_tip":973470,"target":973470,"since_seen_ms":4071}
+{"t":"2026-10-28T00:10:21.427Z","step":"lost","net_tip":973471,"target":973471,"since_seen_ms":3734}
