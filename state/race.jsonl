@@ -1900,3 +1900,5 @@
 {"t":"2026-10-29T20:53:03.059Z","step":"post","why":"push:mempool.space:973739","error":true,"ms":5001,"since_seen_ms":null,"raw":"Service unavailable or invalid response. Check the configured connection."}
 {"t":"2026-10-29T20:53:04.159Z","step":"post","why":"push:mempool.space:973739","error":true,"ms":5001,"since_seen_ms":null,"raw":"Service unavailable or invalid response. Check the configured connection."}
 {"t":"2026-10-29T20:53:04.159Z","step":"lost","net_tip":973739,"target":973739,"since_seen_ms":8303}
+{"t":"2026-10-29T20:55:05.123Z","step":"post","why":"push:mempool.space:973740","error":true,"ms":5001,"since_seen_ms":null,"raw":"Service unavailable or invalid response. Check the configured connection."}
+{"t":"2026-10-29T20:55:05.124Z","step":"lost","net_tip":973740,"target":973740,"since_seen_ms":6103}
