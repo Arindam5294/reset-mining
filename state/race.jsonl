@@ -1891,3 +1891,7 @@
 {"t":"2026-10-29T20:25:06.234Z","step":"lost","net_tip":973734,"target":973734,"since_seen_ms":6438}
 {"t":"2026-10-29T20:26:17.698Z","step":"lost","net_tip":973735,"target":973735,"since_seen_ms":4228}
 {"t":"2026-10-29T20:34:10.600Z","step":"lost","net_tip":973736,"target":973736,"since_seen_ms":7004}
+{"t":"2026-10-29T20:34:20.209Z","step":"post","why":"push:mempool.space:973737","error":true,"ms":2262,"since_seen_ms":2264,"first_seen":"https://mempool.space","ok":false,"outcome":"rejected","headers":1,"from_height":973737,"to_height":973737,"source_height":973737,"source":"http://127.0.0.1:44525","message":"The gateway is busy. Wait before trying again."}
+{"t":"2026-10-29T20:34:20.920Z","step":"post","why":"push:mempool.space:973737","error":true,"ms":1872,"since_seen_ms":2975,"first_seen":"https://mempool.space","ok":false,"outcome":"rejected","headers":1,"from_height":973737,"to_height":973737,"source_height":973737,"source":"http://127.0.0.1:44525","message":"The gateway is busy. Wait before trying again."}
+{"t":"2026-10-29T20:34:21.369Z","step":"post","why":"push:mempool.space:973737","error":true,"ms":1221,"since_seen_ms":null,"raw":"State changed during puzzle work; try again with fresh state"}
+{"t":"2026-10-29T20:34:25.514Z","step":"lost","net_tip":973737,"target":973737,"since_seen_ms":7569}
