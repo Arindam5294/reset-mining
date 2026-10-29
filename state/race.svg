@@ -29,7 +29,7 @@ text{font-size:13px;fill:#7CFFB2}
 <text x="440" y="19" text-anchor="middle" class="k">swanix@reset-miner: ~/header-race</text>
 <text x="28" y="62" class="title">RESET://HEADER-RACE</text>
 <circle class="led" cx="730" cy="56" r="6" fill="#39FF88"/><text x="742" y="61" class="win">RACING</text>
-<text x="28" y="84" class="k">first poster of each Bitcoin header wins 0.003125 RESET · updated 22:00:28 IST</text>
+<text x="28" y="84" class="k">first poster of each Bitcoin header wins 0.003125 RESET · updated 22:15:29 IST</text>
 <text x="28" y="112" class="k">BALANCE</text><text x="28" y="133" class="v">0.0100 RESET</text><text x="168" y="112" class="k">WINS</text><text x="168" y="133" class="v">0</text><text x="308" y="112" class="k">BLOCKS FOUGHT</text><text x="308" y="133" class="v">17</text><text x="448" y="112" class="k">BOUNCED</text><text x="448" y="133" class="v">347</text><text x="588" y="112" class="k">LOST</text><text x="588" y="133" class="v">981</text><text x="728" y="112" class="k">BTC TIP</text><text x="728" y="133" class="v">973714</text>
 <rect x="28" y="144" width="824" height="6" rx="3" fill="#13201a"/><rect x="28" y="144" width="82.4" height="6" rx="3" fill="url(#bar)"/>
 <text x="852" y="162" text-anchor="end" class="k">10% of 0.1 RESET needed to mine</text>
