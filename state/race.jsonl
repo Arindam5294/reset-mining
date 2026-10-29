@@ -1896,3 +1896,7 @@
 {"t":"2026-10-29T20:34:21.369Z","step":"post","why":"push:mempool.space:973737","error":true,"ms":1221,"since_seen_ms":null,"raw":"State changed during puzzle work; try again with fresh state"}
 {"t":"2026-10-29T20:34:25.514Z","step":"lost","net_tip":973737,"target":973737,"since_seen_ms":7569}
 {"t":"2026-10-29T20:42:23.957Z","step":"lost","net_tip":973738,"target":973738,"since_seen_ms":5168}
+{"t":"2026-10-29T20:53:01.958Z","step":"post","why":"push:mempool.space:973739","error":true,"ms":5000,"since_seen_ms":null,"raw":"Service unavailable or invalid response. Check the configured connection."}
+{"t":"2026-10-29T20:53:03.059Z","step":"post","why":"push:mempool.space:973739","error":true,"ms":5001,"since_seen_ms":null,"raw":"Service unavailable or invalid response. Check the configured connection."}
+{"t":"2026-10-29T20:53:04.159Z","step":"post","why":"push:mempool.space:973739","error":true,"ms":5001,"since_seen_ms":null,"raw":"Service unavailable or invalid response. Check the configured connection."}
+{"t":"2026-10-29T20:53:04.159Z","step":"lost","net_tip":973739,"target":973739,"since_seen_ms":8303}
