@@ -1930,3 +1930,4 @@
 {"t":"2026-10-29T22:23:58.468Z","step":"lost","net_tip":973748,"target":973748,"since_seen_ms":4213}
 {"t":"2026-10-29T22:51:02.517Z","step":"lost","net_tip":973749,"target":973749,"since_seen_ms":3818}
 {"t":"2026-10-29T23:55:32.818Z","step":"lost","net_tip":973751,"target":973751,"since_seen_ms":3804}
+{"t":"2026-10-30T00:06:55.430Z","step":"lost","net_tip":973752,"target":973752,"since_seen_ms":3799}
