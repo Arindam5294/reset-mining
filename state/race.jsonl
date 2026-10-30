@@ -2004,3 +2004,4 @@
 {"t":"2026-10-30T08:23:13.335Z","step":"lost","net_tip":973793,"target":973793,"since_seen_ms":4060}
 {"t":"2026-10-30T08:26:11.566Z","step":"post","why":"push:mempool.space:973794","error":true,"ms":1538,"since_seen_ms":null,"raw":"State changed during puzzle work; try again with fresh state"}
 {"t":"2026-10-30T08:26:15.137Z","step":"lost","net_tip":973794,"target":973794,"since_seen_ms":5110}
+{"t":"2026-10-30T08:36:24.811Z","step":"lost","net_tip":973795,"target":973795,"since_seen_ms":3770}
