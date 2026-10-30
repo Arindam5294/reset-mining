@@ -1961,3 +1961,4 @@
 {"t":"2026-10-30T02:59:09.153Z","step":"post","why":"retry","error":true,"ms":972,"since_seen_ms":16376,"first_seen":"https://mempool.space","ok":false,"outcome":"rejected","headers":1,"from_height":973766,"to_height":973766,"source_height":973766,"source":"http://127.0.0.1:33699","message":"The gateway is busy. Wait before trying again."}
 {"t":"2026-10-30T02:59:09.934Z","step":"post","why":"retry","error":true,"ms":2853,"since_seen_ms":17157,"first_seen":"https://mempool.space","ok":false,"outcome":"rejected","headers":1,"from_height":973766,"to_height":973766,"source_height":973766,"source":"http://127.0.0.1:33699","message":"The gateway is busy. Wait before trying again."}
 {"t":"2026-10-30T02:59:12.805Z","step":"lost","net_tip":973766,"target":973766,"since_seen_ms":20028}
+{"t":"2026-10-30T03:35:47.657Z","step":"lost","net_tip":973767,"target":973767,"since_seen_ms":3856}
