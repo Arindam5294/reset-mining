@@ -2158,3 +2158,4 @@
 {"t":"2026-10-30T21:31:41.070Z","step":"post","why":"push:mempool.space:973882","error":true,"ms":2905,"since_seen_ms":6206,"first_seen":"https://mempool.space","ok":false,"outcome":"rejected","headers":1,"from_height":973882,"to_height":973882,"source_height":973882,"source":"http://127.0.0.1:43727","message":"The network already has these headers."}
 {"t":"2026-10-30T21:31:44.981Z","step":"lost","net_tip":973882,"target":973882,"since_seen_ms":10117}
 {"t":"2026-10-30T21:37:36.106Z","step":"lost","net_tip":973883,"target":973883,"since_seen_ms":4364}
+{"t":"2026-10-30T21:51:20.619Z","step":"lost","net_tip":973884,"target":973884,"since_seen_ms":4199}
