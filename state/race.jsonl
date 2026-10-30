@@ -2015,3 +2015,4 @@
 {"t":"2026-10-30T10:25:16.021Z","step":"lost","net_tip":973805,"target":973805,"since_seen_ms":4146}
 {"t":"2026-10-30T10:31:12.166Z","step":"post","why":"push:mempool.space:973807","error":true,"ms":5001,"since_seen_ms":null,"raw":"Service unavailable or invalid response. Check the configured connection."}
 {"t":"2026-10-30T10:31:12.802Z","step":"lost","net_tip":973807,"target":973807,"since_seen_ms":7839}
+{"t":"2026-10-30T10:41:49.442Z","step":"lost","net_tip":973808,"target":973808,"since_seen_ms":4255}
