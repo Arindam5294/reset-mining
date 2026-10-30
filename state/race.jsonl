@@ -1964,3 +1964,4 @@
 {"t":"2026-10-30T03:35:47.657Z","step":"lost","net_tip":973767,"target":973767,"since_seen_ms":3856}
 {"t":"2026-10-30T03:56:37.722Z","step":"lost","net_tip":973768,"target":973768,"since_seen_ms":6745}
 {"t":"2026-10-30T03:57:48.757Z","step":"lost","net_tip":973769,"target":973769,"since_seen_ms":5741}
+{"t":"2026-10-30T04:23:39.546Z","step":"lost","net_tip":973770,"target":973770,"since_seen_ms":4178}
