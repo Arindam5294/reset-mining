@@ -1998,3 +1998,4 @@
 {"t":"2026-10-30T07:20:13.948Z","step":"post","why":"push:mempool.space:973788","error":true,"ms":838,"since_seen_ms":null,"raw":"State changed during puzzle work; try again with fresh state"}
 {"t":"2026-10-30T07:20:17.933Z","step":"lost","net_tip":973788,"target":973788,"since_seen_ms":4824}
 {"t":"2026-10-30T07:29:22.118Z","step":"lost","net_tip":973789,"target":973789,"since_seen_ms":3725}
+{"t":"2026-10-30T08:16:00.893Z","step":"lost","net_tip":973790,"target":973790,"since_seen_ms":3728}
