@@ -1987,3 +1987,4 @@
 {"t":"2026-10-30T05:31:11.716Z","step":"post","why":"retry","error":true,"ms":7230,"since_seen_ms":null,"raw":"State changed during puzzle work; try again with fresh state"}
 {"t":"2026-10-30T05:31:11.717Z","step":"lost","net_tip":973778,"target":973778,"since_seen_ms":20435}
 {"t":"2026-10-30T05:38:33.101Z","step":"lost","net_tip":973779,"target":973779,"since_seen_ms":3852}
+{"t":"2026-10-30T05:46:35.969Z","step":"lost","net_tip":973781,"target":973781,"since_seen_ms":3836}
