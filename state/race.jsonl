@@ -2022,3 +2022,4 @@
 {"t":"2026-10-30T11:01:07.521Z","step":"post","why":"push:mempool.space:973811","error":true,"ms":1178,"since_seen_ms":null,"raw":"State changed during puzzle work; try again with fresh state"}
 {"t":"2026-10-30T11:01:11.214Z","step":"lost","net_tip":973811,"target":973811,"since_seen_ms":5974}
 {"t":"2026-10-30T11:06:57.443Z","step":"lost","net_tip":973812,"target":973812,"since_seen_ms":4116}
+{"t":"2026-10-30T11:17:17.165Z","step":"lost","net_tip":973813,"target":973813,"since_seen_ms":4263}
