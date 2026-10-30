@@ -1986,3 +1986,4 @@
 {"t":"2026-10-30T05:31:10.750Z","step":"post","why":"retry","error":true,"ms":9565,"since_seen_ms":19468,"first_seen":"https://mempool.space","ok":false,"outcome":"unknown","headers":1,"from_height":973778,"to_height":973778,"source_height":973778,"source":"http://127.0.0.1:33699","message":"No reliable submission result was received. Check status and settlement before retrying; this action may already have been accepted."}
 {"t":"2026-10-30T05:31:11.716Z","step":"post","why":"retry","error":true,"ms":7230,"since_seen_ms":null,"raw":"State changed during puzzle work; try again with fresh state"}
 {"t":"2026-10-30T05:31:11.717Z","step":"lost","net_tip":973778,"target":973778,"since_seen_ms":20435}
+{"t":"2026-10-30T05:38:33.101Z","step":"lost","net_tip":973779,"target":973779,"since_seen_ms":3852}
