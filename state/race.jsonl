@@ -2345,3 +2345,4 @@
 {"t":"2026-10-31T21:18:40.503Z","step":"post","why":"heartbeat","error":true,"ms":300,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
 {"t":"2026-10-31T21:19:10.807Z","step":"post","why":"heartbeat","error":true,"ms":303,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
 {"t":"2026-10-31T21:19:36.820Z","step":"lost","net_tip":974026,"target":974026,"since_seen_ms":3709}
+{"t":"2026-10-31T21:46:30.354Z","step":"lost","net_tip":974027,"target":974027,"since_seen_ms":3736}
