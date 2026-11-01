@@ -2440,3 +2440,4 @@
 {"t":"2026-11-01T09:52:06.917Z","step":"post","why":"heartbeat","error":true,"ms":5001,"since_seen_ms":null,"raw":"Service unavailable or invalid response. Check the configured connection."}
 {"t":"2026-11-01T10:08:48.016Z","step":"lost","net_tip":974112,"target":974112,"since_seen_ms":3699}
 {"t":"2026-11-01T10:10:50.003Z","step":"race_end","calls":784,"posted":0}
+{"t":"2026-11-01T10:15:28.150Z","step":"race_start","v":3,"minutes":340,"poll_ms":2000,"lanes":4,"gap_ms":1100,"sources":["https://mempool.space","https://blockstream.info","https://mempool.emzy.de"]}
