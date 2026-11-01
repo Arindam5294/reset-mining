@@ -2501,3 +2501,5 @@
 {"t":"2026-11-01T20:28:47.723Z","step":"lost","net_tip":974173,"target":974173,"since_seen_ms":3841}
 {"t":"2026-11-01T20:32:09.187Z","step":"lost","net_tip":974174,"target":974174,"since_seen_ms":3829}
 {"t":"2026-11-01T20:49:41.462Z","step":"lost","net_tip":974175,"target":974175,"since_seen_ms":3848}
+{"t":"2026-11-01T20:53:58.864Z","step":"post","why":"push:mempool.space:974176","error":true,"ms":4157,"since_seen_ms":3703,"first_seen":"https://mempool.space","ok":false,"outcome":"rejected","headers":1,"from_height":974177,"to_height":974177,"source_height":974177,"source":"http://127.0.0.1:46625","message":"The network already has these headers."}
+{"t":"2026-11-01T20:53:58.864Z","step":"lost","net_tip":974176,"target":974176,"since_seen_ms":7461}
