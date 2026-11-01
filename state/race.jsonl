@@ -2427,3 +2427,4 @@
 {"t":"2026-11-01T07:33:43.665Z","step":"post","why":"heartbeat","error":true,"ms":5001,"since_seen_ms":null,"raw":"Service unavailable or invalid response. Check the configured connection."}
 {"t":"2026-11-01T07:34:22.087Z","step":"lost","net_tip":974100,"target":974100,"since_seen_ms":3925}
 {"t":"2026-11-01T07:42:13.982Z","step":"lost","net_tip":974101,"target":974101,"since_seen_ms":3714}
+{"t":"2026-11-01T08:10:12.380Z","step":"lost","net_tip":974102,"target":974102,"since_seen_ms":3878}
