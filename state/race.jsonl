@@ -2845,3 +2845,4 @@
 {"t":"2026-11-04T12:55:38.840Z","step":"race_end","calls":750,"posted":0}
 {"t":"2026-11-04T13:00:30.892Z","step":"race_start","v":3,"minutes":340,"poll_ms":2000,"lanes":4,"gap_ms":1100,"sources":["https://mempool.space","https://blockstream.info","https://mempool.emzy.de"]}
 {"t":"2026-11-04T13:07:33.065Z","step":"lost","net_tip":974528,"target":974528,"since_seen_ms":3841}
+{"t":"2026-11-04T13:23:23.781Z","step":"lost","net_tip":974529,"target":974529,"since_seen_ms":3911}
