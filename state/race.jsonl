@@ -3050,3 +3050,4 @@
 {"t":"2026-11-05T21:41:30.708Z","step":"lost","net_tip":974714,"target":974714,"since_seen_ms":3843}
 {"t":"2026-11-05T21:46:46.598Z","step":"post","why":"push:mempool.space:974715","error":true,"ms":1468,"since_seen_ms":650,"first_seen":"https://mempool.space","ok":false,"outcome":"rejected","headers":1,"from_height":974716,"to_height":974716,"source_height":974716,"source":"http://127.0.0.1:43343","message":"The gateway is busy. Wait before trying again."}
 {"t":"2026-11-05T21:46:46.598Z","step":"lost","net_tip":974715,"target":974715,"since_seen_ms":4772}
+{"t":"2026-11-05T21:47:01.003Z","step":"lost","net_tip":974716,"target":974716,"since_seen_ms":15055}
