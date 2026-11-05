@@ -3029,3 +3029,4 @@
 {"t":"2026-11-05T18:54:03.190Z","step":"post","why":"push:mempool.space:974693","error":true,"ms":1984,"since_seen_ms":1369,"first_seen":"https://mempool.space","ok":false,"outcome":"rejected","headers":1,"from_height":974694,"to_height":974694,"source_height":974694,"source":"http://127.0.0.1:43343","message":"The gateway is busy. Wait before trying again."}
 {"t":"2026-11-05T18:54:03.190Z","step":"lost","net_tip":974693,"target":974693,"since_seen_ms":5290}
 {"t":"2026-11-05T18:54:37.029Z","step":"lost","net_tip":974694,"target":974694,"since_seen_ms":35208}
+{"t":"2026-11-05T18:56:26.008Z","step":"lost","net_tip":974695,"target":974695,"since_seen_ms":4230}
