@@ -3195,3 +3195,4 @@
 {"t":"2026-11-06T16:34:43.360Z","step":"post","why":"push:mempool.space:974825","error":true,"ms":1027,"since_seen_ms":1029,"first_seen":"https://mempool.space","ok":false,"outcome":"rejected","headers":1,"from_height":974825,"to_height":974825,"source_height":974825,"source":"http://127.0.0.1:35261","message":"The gateway is busy. Wait before trying again."}
 {"t":"2026-11-06T16:34:44.554Z","step":"post","why":"push:mempool.space:974825","error":true,"ms":1120,"since_seen_ms":null,"raw":"State changed during puzzle work; try again with fresh state"}
 {"t":"2026-11-06T16:34:48.634Z","step":"lost","net_tip":974825,"target":974825,"since_seen_ms":6303}
+{"t":"2026-11-06T16:46:22.546Z","step":"lost","net_tip":974826,"target":974826,"since_seen_ms":3752}
