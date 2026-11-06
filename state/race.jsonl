@@ -3191,3 +3191,4 @@
 {"t":"2026-11-06T15:24:09.580Z","step":"post","why":"poll:blockstream.info:974822","error":true,"ms":6878,"since_seen_ms":13861,"first_seen":"https://mempool.space","ok":false,"outcome":"unknown","headers":1,"from_height":974822,"to_height":974822,"source_height":974822,"source":"http://127.0.0.1:35261","message":"No reliable submission result was received. Check status and settlement before retrying; this action may already have been accepted."}
 {"t":"2026-11-06T15:24:09.580Z","step":"lost","net_tip":974822,"target":974822,"since_seen_ms":13861}
 {"t":"2026-11-06T15:32:55.138Z","step":"lost","net_tip":974823,"target":974823,"since_seen_ms":3831}
+{"t":"2026-11-06T15:51:34.609Z","step":"lost","net_tip":974824,"target":974824,"since_seen_ms":3800}
