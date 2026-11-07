@@ -3296,3 +3296,4 @@
 {"t":"2026-11-07T04:51:59.940Z","step":"post","why":"push:mempool.space:974893","error":true,"ms":5668,"since_seen_ms":7869,"first_seen":"https://mempool.space","ok":false,"outcome":"unknown","headers":1,"from_height":974893,"to_height":974893,"source_height":974893,"source":"http://127.0.0.1:46025","message":"No reliable submission result was received. Check status and settlement before retrying; this action may already have been accepted."}
 {"t":"2026-11-07T04:51:59.940Z","step":"lost","net_tip":974893,"target":974893,"since_seen_ms":7869}
 {"t":"2026-11-07T05:00:35.690Z","step":"lost","net_tip":974894,"target":974894,"since_seen_ms":4127}
+{"t":"2026-11-07T05:39:06.350Z","step":"lost","net_tip":974895,"target":974895,"since_seen_ms":3753}
