@@ -4,7 +4,7 @@
 
 <!-- status:start -->
 ## Live status
-Updated **2026-11-08 06:00 UTC** (every 15 min)
+Updated **2026-11-08 06:15 UTC** (every 15 min)
 
 | | |
 |---|---|
@@ -15,7 +15,7 @@ Updated **2026-11-08 06:00 UTC** (every 15 min)
 | This round's claim | none |
 | Strikes | 0 |
 | Header posts won (logged) | 0 |
-| Bitcoin tip | 975028 |
+| Bitcoin tip | 975030 |
 
 [Full activity log](state/activity.jsonl)
 <!-- status:end -->
