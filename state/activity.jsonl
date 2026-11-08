@@ -3482,3 +3482,4 @@
 {"t":"2026-11-08T22:45:28.144Z","step":"post_headers","outcome":"nothing_new","tip":975105}
 {"t":"2026-11-08T22:45:28.144Z","step":"pass","tip":975105,"counted":975100,"round":901,"window_open":true,"balance":"0.01000000","deposit":"0.00000000","claim":null,"strikes":0,"exits":0}
 {"t":"2026-11-08T22:47:09.987Z","step":"pass","tip":975105,"counted":975100,"round":901,"window_open":true,"balance":"0.01000000","deposit":"0.00000000","claim":null,"strikes":0,"exits":0}
+{"t":"2026-11-08T23:00:33.369Z","step":"status_failed","why":"gateway unavailable","s":"Service unavailable or invalid response. Check the configured connection."}
