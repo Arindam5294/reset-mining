@@ -3442,3 +3442,4 @@
 {"t":"2026-11-08T06:42:05.864Z","step":"post","why":"retry","error":true,"ms":1101,"since_seen_ms":6602,"first_seen":"https://mempool.space","ok":false,"outcome":"rejected","headers":1,"from_height":975033,"to_height":975033,"source_height":975033,"source":"http://127.0.0.1:33573","message":"The gateway is busy. Wait before trying again."}
 {"t":"2026-11-08T06:42:06.579Z","step":"post","why":"retry","error":true,"ms":716,"since_seen_ms":7317,"first_seen":"https://mempool.space","ok":false,"outcome":"rejected","headers":1,"from_height":975033,"to_height":975033,"source_height":975033,"source":"http://127.0.0.1:33573","message":"The gateway is busy. Wait before trying again."}
 {"t":"2026-11-08T06:42:10.933Z","step":"lost","net_tip":975033,"target":975033,"since_seen_ms":11671}
+{"t":"2026-11-08T06:45:43.407Z","step":"lost","net_tip":975034,"target":975034,"since_seen_ms":3768}
