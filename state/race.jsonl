@@ -3449,3 +3449,4 @@
 {"t":"2026-11-08T07:08:06.727Z","step":"lost","net_tip":975038,"target":975038,"since_seen_ms":5729}
 {"t":"2026-11-08T07:18:21.134Z","step":"post","why":"push:mempool.space:975039","error":true,"ms":5750,"since_seen_ms":5481,"first_seen":"https://mempool.space","ok":false,"outcome":"unknown","headers":1,"from_height":975040,"to_height":975040,"source_height":975040,"source":"http://127.0.0.1:33573","message":"No reliable submission result was received. Check status and settlement before retrying; this action may already have been accepted."}
 {"t":"2026-11-08T07:18:21.134Z","step":"lost","net_tip":975039,"target":975039,"since_seen_ms":9053}
+{"t":"2026-11-08T07:18:55.233Z","step":"lost","net_tip":975040,"target":975040,"since_seen_ms":39580}
