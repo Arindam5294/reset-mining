@@ -3648,3 +3648,4 @@
 {"t":"2026-11-10T01:31:42.640Z","step":"post","why":"push:mempool.space:975236","error":true,"ms":473,"since_seen_ms":null,"raw":"State changed during puzzle work; try again with fresh state"}
 {"t":"2026-11-10T01:31:47.018Z","step":"lost","net_tip":975236,"target":975236,"since_seen_ms":5952}
 {"t":"2026-11-10T01:31:51.704Z","step":"lost","net_tip":975237,"target":975237,"since_seen_ms":3799}
+{"t":"2026-11-10T01:46:49.700Z","step":"lost","net_tip":975238,"target":975238,"since_seen_ms":3741}
