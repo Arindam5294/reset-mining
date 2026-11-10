@@ -3754,3 +3754,4 @@
 {"t":"2026-11-10T18:23:53.814Z","step":"post","why":"heartbeat","error":true,"ms":309,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
 {"t":"2026-11-10T18:26:36.192Z","step":"lost","net_tip":975332,"target":975332,"since_seen_ms":3716}
 {"t":"2026-11-10T18:34:47.604Z","step":"lost","net_tip":975333,"target":975333,"since_seen_ms":3716}
+{"t":"2026-11-10T19:08:57.103Z","step":"lost","net_tip":975334,"target":975334,"since_seen_ms":3726}
