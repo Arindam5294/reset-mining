@@ -3747,3 +3747,9 @@
 {"t":"2026-11-10T18:08:17.094Z","step":"lost","net_tip":975329,"target":975329,"since_seen_ms":3735}
 {"t":"2026-11-10T18:13:28.148Z","step":"lost","net_tip":975330,"target":975330,"since_seen_ms":4889}
 {"t":"2026-11-10T18:17:46.777Z","step":"lost","net_tip":975331,"target":975331,"since_seen_ms":4804}
+{"t":"2026-11-10T18:21:52.435Z","step":"post","why":"heartbeat","error":true,"ms":304,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-11-10T18:22:22.892Z","step":"post","why":"heartbeat","error":true,"ms":458,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-11-10T18:22:53.196Z","step":"post","why":"heartbeat","error":true,"ms":304,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-11-10T18:23:23.504Z","step":"post","why":"heartbeat","error":true,"ms":307,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-11-10T18:23:53.814Z","step":"post","why":"heartbeat","error":true,"ms":309,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-11-10T18:26:36.192Z","step":"lost","net_tip":975332,"target":975332,"since_seen_ms":3716}
