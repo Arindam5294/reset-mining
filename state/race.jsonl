@@ -3904,3 +3904,5 @@
 {"t":"2026-11-11T23:03:24.000Z","step":"lost","net_tip":975487,"target":975487,"since_seen_ms":4585}
 {"t":"2026-11-11T23:10:34.343Z","step":"lost","net_tip":975488,"target":975488,"since_seen_ms":4066}
 {"t":"2026-11-11T23:13:10.094Z","step":"lost","net_tip":975489,"target":975489,"since_seen_ms":4132}
+{"t":"2026-11-11T23:31:50.199Z","step":"post","why":"heartbeat","error":true,"ms":2714,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:35511 is unavailable. Try again later or set another source."}
+{"t":"2026-11-11T23:33:18.670Z","step":"lost","net_tip":975491,"target":975491,"since_seen_ms":4236}
