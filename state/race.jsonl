@@ -3889,3 +3889,5 @@
 {"t":"2026-11-11T20:15:32.888Z","step":"race_start","v":3,"minutes":340,"poll_ms":2000,"lanes":4,"gap_ms":1100,"sources":["https://mempool.space","https://blockstream.info","https://mempool.emzy.de"]}
 {"t":"2026-11-11T20:23:03.853Z","step":"lost","net_tip":975472,"target":975472,"since_seen_ms":4109}
 {"t":"2026-11-11T20:45:40.361Z","step":"lost","net_tip":975473,"target":975473,"since_seen_ms":4100}
+{"t":"2026-11-11T20:51:23.709Z","step":"post","why":"heartbeat","error":true,"ms":2751,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:35511 is unavailable. Try again later or set another source."}
+{"t":"2026-11-11T21:32:14.994Z","step":"lost","net_tip":975474,"target":975474,"since_seen_ms":3956}
