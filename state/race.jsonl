@@ -3981,3 +3981,4 @@
 {"t":"2026-11-12T13:47:30.344Z","step":"post","why":"push:mempool.space:975559","error":true,"ms":2760,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:39339 is unavailable. Try again later or set another source."}
 {"t":"2026-11-12T13:47:30.460Z","step":"lost","net_tip":975559,"target":975559,"since_seen_ms":3978}
 {"t":"2026-11-12T13:54:25.866Z","step":"lost","net_tip":975560,"target":975560,"since_seen_ms":4209}
+{"t":"2026-11-12T14:21:57.150Z","step":"lost","net_tip":975562,"target":975562,"since_seen_ms":3991}
