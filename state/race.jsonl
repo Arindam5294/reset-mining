@@ -3985,3 +3985,5 @@
 {"t":"2026-11-12T14:44:17.672Z","step":"post","why":"heartbeat","error":true,"ms":1174,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:39339 is unavailable. Try again later or set another source."}
 {"t":"2026-11-12T14:52:15.334Z","step":"lost","net_tip":975563,"target":975563,"since_seen_ms":3978}
 {"t":"2026-11-12T14:52:45.308Z","step":"lost","net_tip":975564,"target":975564,"since_seen_ms":3983}
+{"t":"2026-11-12T15:03:56.917Z","step":"post","why":"poll:blockstream.info:975565","error":true,"ms":5965,"since_seen_ms":5966,"first_seen":"https://blockstream.info","ok":false,"outcome":"unknown","headers":1,"from_height":975565,"to_height":975565,"source_height":975565,"source":"http://127.0.0.1:39339","message":"No reliable submission result was received. Check status and settlement before retrying; this action may already have been accepted."}
+{"t":"2026-11-12T15:03:56.917Z","step":"lost","net_tip":975565,"target":975565,"since_seen_ms":5966}
