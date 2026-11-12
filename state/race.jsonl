@@ -3988,3 +3988,4 @@
 {"t":"2026-11-12T15:03:56.917Z","step":"post","why":"poll:blockstream.info:975565","error":true,"ms":5965,"since_seen_ms":5966,"first_seen":"https://blockstream.info","ok":false,"outcome":"unknown","headers":1,"from_height":975565,"to_height":975565,"source_height":975565,"source":"http://127.0.0.1:39339","message":"No reliable submission result was received. Check status and settlement before retrying; this action may already have been accepted."}
 {"t":"2026-11-12T15:03:56.917Z","step":"lost","net_tip":975565,"target":975565,"since_seen_ms":5966}
 {"t":"2026-11-12T15:07:43.678Z","step":"lost","net_tip":975566,"target":975566,"since_seen_ms":3951}
+{"t":"2026-11-12T15:17:51.757Z","step":"lost","net_tip":975567,"target":975567,"since_seen_ms":4450}
