@@ -4079,3 +4079,4 @@
 {"t":"2026-11-13T05:34:59.805Z","step":"post","why":"retry","error":true,"ms":478,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
 {"t":"2026-11-13T05:35:00.903Z","step":"post","why":"retry","error":true,"ms":475,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
 {"t":"2026-11-13T05:35:05.166Z","step":"lost","net_tip":975636,"target":975636,"since_seen_ms":16847}
+{"t":"2026-11-13T05:50:41.912Z","step":"lost","net_tip":975637,"target":975637,"since_seen_ms":4001}
