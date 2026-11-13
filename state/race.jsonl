@@ -4064,3 +4064,18 @@
 {"t":"2026-11-13T04:47:39.986Z","step":"lost","net_tip":975633,"target":975633,"since_seen_ms":3953}
 {"t":"2026-11-13T04:58:38.227Z","step":"lost","net_tip":975634,"target":975634,"since_seen_ms":3990}
 {"t":"2026-11-13T04:59:40.215Z","step":"lost","net_tip":975635,"target":975635,"since_seen_ms":4325}
+{"t":"2026-11-13T05:33:47.961Z","step":"post","why":"heartbeat","error":true,"ms":481,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-11-13T05:34:18.437Z","step":"post","why":"heartbeat","error":true,"ms":475,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-11-13T05:34:48.815Z","step":"post","why":"push:mempool.space:975636","error":true,"ms":495,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-11-13T05:34:49.886Z","step":"post","why":"push:mempool.space:975636","error":true,"ms":465,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-11-13T05:34:50.998Z","step":"post","why":"push:mempool.space:975636","error":true,"ms":477,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-11-13T05:34:51.774Z","step":"post","why":"retry","error":true,"ms":151,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-11-13T05:34:52.874Z","step":"post","why":"retry","error":true,"ms":151,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-11-13T05:34:54.308Z","step":"post","why":"retry","error":true,"ms":484,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-11-13T05:34:55.427Z","step":"post","why":"push:mempool.space:975636","error":true,"ms":503,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-11-13T05:34:56.503Z","step":"post","why":"retry","error":true,"ms":478,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-11-13T05:34:57.277Z","step":"post","why":"retry","error":true,"ms":152,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-11-13T05:34:58.680Z","step":"post","why":"retry","error":true,"ms":454,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-11-13T05:34:59.805Z","step":"post","why":"retry","error":true,"ms":478,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-11-13T05:35:00.903Z","step":"post","why":"retry","error":true,"ms":475,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-11-13T05:35:05.166Z","step":"lost","net_tip":975636,"target":975636,"since_seen_ms":16847}
