@@ -4058,3 +4058,4 @@
 {"t":"2026-11-13T03:15:39.176Z","step":"lost","net_tip":975627,"target":975627,"since_seen_ms":4519}
 {"t":"2026-11-13T04:00:10.074Z","step":"post","why":"heartbeat","error":true,"ms":2754,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:40087 is unavailable. Try again later or set another source."}
 {"t":"2026-11-13T04:08:37.889Z","step":"lost","net_tip":975628,"target":975628,"since_seen_ms":4993}
+{"t":"2026-11-13T04:10:59.709Z","step":"lost","net_tip":975629,"target":975629,"since_seen_ms":3963}
