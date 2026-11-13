@@ -4055,3 +4055,4 @@
 {"t":"2026-11-13T03:12:06.510Z","step":"post","why":"heartbeat","error":true,"ms":2715,"since_seen_ms":null,"ok":false,"outcome":"rejected","headers":5,"from_height":975621,"to_height":975625,"source_height":975625,"source":"http://127.0.0.1:40087","message":"The network already has these headers."}
 {"t":"2026-11-13T03:12:39.072Z","step":"post","why":"heartbeat","error":true,"ms":2561,"since_seen_ms":null,"ok":false,"outcome":"rejected","headers":5,"from_height":975621,"to_height":975625,"source_height":975625,"source":"http://127.0.0.1:40087","message":"The network already has these headers."}
 {"t":"2026-11-13T03:13:12.367Z","step":"lost","net_tip":975626,"target":975626,"since_seen_ms":3959}
+{"t":"2026-11-13T03:15:39.176Z","step":"lost","net_tip":975627,"target":975627,"since_seen_ms":4519}
