@@ -4035,3 +4035,4 @@
 {"t":"2026-11-13T00:07:05.509Z","step":"lost","net_tip":975614,"target":975614,"since_seen_ms":3844}
 {"t":"2026-11-13T00:30:47.795Z","step":"lost","net_tip":975615,"target":975615,"since_seen_ms":4261}
 {"t":"2026-11-13T00:44:42.206Z","step":"lost","net_tip":975616,"target":975616,"since_seen_ms":4168}
+{"t":"2026-11-13T00:56:02.884Z","step":"race_end","calls":757,"posted":0}
