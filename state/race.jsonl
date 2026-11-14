@@ -4223,3 +4223,4 @@
 {"t":"2026-11-14T11:06:35.334Z","step":"lost","net_tip":975786,"target":975786,"since_seen_ms":3799}
 {"t":"2026-11-14T11:14:21.223Z","step":"lost","net_tip":975787,"target":975787,"since_seen_ms":3797}
 {"t":"2026-11-14T11:25:34.982Z","step":"race_end","calls":799,"posted":0}
+{"t":"2026-11-14T11:30:24.689Z","step":"race_start","v":3,"minutes":340,"poll_ms":2000,"lanes":4,"gap_ms":1100,"sources":["https://mempool.space","https://blockstream.info","https://mempool.emzy.de"]}
