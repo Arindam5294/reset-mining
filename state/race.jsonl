@@ -4433,3 +4433,4 @@
 {"t":"2026-11-15T21:50:07.007Z","step":"lost","net_tip":976017,"target":976017,"since_seen_ms":3703}
 {"t":"2026-11-15T21:53:02.084Z","step":"lost","net_tip":976018,"target":976018,"since_seen_ms":3878}
 {"t":"2026-11-15T21:55:21.037Z","step":"lost","net_tip":976019,"target":976019,"since_seen_ms":3702}
+{"t":"2026-11-15T21:55:51.065Z","step":"race_end","calls":785,"posted":0}
