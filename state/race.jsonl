@@ -4380,3 +4380,4 @@
 {"t":"2026-11-15T12:22:46.178Z","step":"lost","net_tip":975961,"target":975961,"since_seen_ms":4535}
 {"t":"2026-11-15T12:46:14.294Z","step":"lost","net_tip":975962,"target":975962,"since_seen_ms":3794}
 {"t":"2026-11-15T12:47:29.777Z","step":"lost","net_tip":975963,"target":975963,"since_seen_ms":3798}
+{"t":"2026-11-15T12:52:04.190Z","step":"lost","net_tip":975964,"target":975964,"since_seen_ms":4199}
