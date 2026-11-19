@@ -5002,3 +5002,4 @@
 {"t":"2026-11-19T16:56:05.042Z","step":"post","why":"push:mempool.space:976610","error":true,"ms":1066,"since_seen_ms":null,"raw":"State changed during puzzle work; try again with fresh state"}
 {"t":"2026-11-19T16:56:08.594Z","step":"lost","net_tip":976610,"target":976610,"since_seen_ms":4619}
 {"t":"2026-11-19T16:58:51.851Z","step":"lost","net_tip":976611,"target":976611,"since_seen_ms":3737}
+{"t":"2026-11-19T16:59:16.994Z","step":"lost","net_tip":976612,"target":976612,"since_seen_ms":3711}
