@@ -4999,3 +4999,5 @@
 {"t":"2026-11-19T16:17:10.600Z","step":"lost","net_tip":976606,"target":976606,"since_seen_ms":3716}
 {"t":"2026-11-19T16:22:06.637Z","step":"lost","net_tip":976607,"target":976607,"since_seen_ms":3818}
 {"t":"2026-11-19T16:55:56.961Z","step":"lost","net_tip":976609,"target":976609,"since_seen_ms":3721}
+{"t":"2026-11-19T16:56:05.042Z","step":"post","why":"push:mempool.space:976610","error":true,"ms":1066,"since_seen_ms":null,"raw":"State changed during puzzle work; try again with fresh state"}
+{"t":"2026-11-19T16:56:08.594Z","step":"lost","net_tip":976610,"target":976610,"since_seen_ms":4619}
