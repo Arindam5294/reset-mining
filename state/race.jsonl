@@ -5036,3 +5036,4 @@
 {"t":"2026-11-19T21:56:27.872Z","step":"lost","net_tip":976639,"target":976639,"since_seen_ms":6008}
 {"t":"2026-11-19T21:56:33.184Z","step":"post","why":"push:mempool.space:976640","error":true,"ms":4524,"since_seen_ms":4525,"first_seen":"https://mempool.space","ok":false,"outcome":"rejected","headers":1,"from_height":976640,"to_height":976640,"source_height":976640,"source":"http://127.0.0.1:36917","message":"The network already has these headers."}
 {"t":"2026-11-19T21:56:33.184Z","step":"lost","net_tip":976640,"target":976640,"since_seen_ms":4525}
+{"t":"2026-11-19T22:01:37.372Z","step":"lost","net_tip":976641,"target":976641,"since_seen_ms":4158}
