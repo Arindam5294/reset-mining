@@ -5155,3 +5155,4 @@
 {"t":"2026-11-20T15:39:45.521Z","step":"post","why":"push:mempool.space:976748","error":true,"ms":2138,"since_seen_ms":null,"raw":"State changed during puzzle work; try again with fresh state"}
 {"t":"2026-11-20T15:39:48.742Z","step":"lost","net_tip":976748,"target":976748,"since_seen_ms":5360}
 {"t":"2026-11-20T15:41:32.442Z","step":"lost","net_tip":976749,"target":976749,"since_seen_ms":4019}
+{"t":"2026-11-20T15:48:37.635Z","step":"lost","net_tip":976750,"target":976750,"since_seen_ms":4020}
