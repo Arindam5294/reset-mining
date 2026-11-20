@@ -5186,3 +5186,4 @@
 {"t":"2026-11-20T19:55:58.103Z","step":"post","why":"retry","error":true,"ms":1157,"since_seen_ms":null,"raw":"State changed during puzzle work; try again with fresh state"}
 {"t":"2026-11-20T19:56:01.782Z","step":"lost","net_tip":976778,"target":976778,"since_seen_ms":7039}
 {"t":"2026-11-20T20:11:06.457Z","step":"lost","net_tip":976779,"target":976779,"since_seen_ms":3718}
+{"t":"2026-11-20T20:25:17.705Z","step":"lost","net_tip":976780,"target":976780,"since_seen_ms":4074}
