@@ -5290,3 +5290,4 @@
 {"t":"2026-11-21T06:53:03.920Z","step":"post","why":"heartbeat","error":true,"ms":2638,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43187 is unavailable. Try again later or set another source."}
 {"t":"2026-11-21T06:53:36.612Z","step":"post","why":"heartbeat","error":true,"ms":2692,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43187 is unavailable. Try again later or set another source."}
 {"t":"2026-11-21T07:01:37.662Z","step":"lost","net_tip":976864,"target":976864,"since_seen_ms":4453}
+{"t":"2026-11-21T07:01:53.278Z","step":"lost","net_tip":976865,"target":976865,"since_seen_ms":4253}
