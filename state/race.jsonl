@@ -5223,3 +5223,4 @@
 {"t":"2026-11-21T00:56:34.267Z","step":"lost","net_tip":976814,"target":976814,"since_seen_ms":4408}
 {"t":"2026-11-21T00:58:48.058Z","step":"post","why":"push:mempool.space:976815","error":true,"ms":1551,"since_seen_ms":null,"raw":"State changed during puzzle work; try again with fresh state"}
 {"t":"2026-11-21T00:58:51.532Z","step":"lost","net_tip":976815,"target":976815,"since_seen_ms":5026}
+{"t":"2026-11-21T01:00:19.563Z","step":"lost","net_tip":976816,"target":976816,"since_seen_ms":3839}
