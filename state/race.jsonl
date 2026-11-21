@@ -5239,3 +5239,4 @@
 {"t":"2026-11-21T02:41:49.384Z","step":"post","why":"push:mempool.space:976829","error":true,"ms":1667,"since_seen_ms":1267,"first_seen":"https://mempool.space","ok":false,"outcome":"rejected","headers":1,"from_height":976830,"to_height":976830,"source_height":976830,"source":"http://127.0.0.1:41375","message":"The gateway is busy. Wait before trying again."}
 {"t":"2026-11-21T02:41:49.384Z","step":"lost","net_tip":976829,"target":976829,"since_seen_ms":4970}
 {"t":"2026-11-21T02:42:23.226Z","step":"lost","net_tip":976830,"target":976830,"since_seen_ms":35109}
+{"t":"2026-11-21T02:55:52.755Z","step":"lost","net_tip":976831,"target":976831,"since_seen_ms":4362}
