@@ -5242,3 +5242,5 @@
 {"t":"2026-11-21T02:55:52.755Z","step":"lost","net_tip":976831,"target":976831,"since_seen_ms":4362}
 {"t":"2026-11-21T03:08:58.432Z","step":"lost","net_tip":976832,"target":976832,"since_seen_ms":3884}
 {"t":"2026-11-21T03:20:35.545Z","step":"lost","net_tip":976833,"target":976833,"since_seen_ms":3895}
+{"t":"2026-11-21T03:26:00.235Z","step":"post","why":"push:mempool.space:976834","error":true,"ms":6237,"since_seen_ms":5843,"first_seen":"https://mempool.space","ok":false,"outcome":"unknown","headers":1,"from_height":976835,"to_height":976835,"source_height":976835,"source":"http://127.0.0.1:41375","message":"No reliable submission result was received. Check status and settlement before retrying; this action may already have been accepted."}
+{"t":"2026-11-21T03:26:00.236Z","step":"lost","net_tip":976834,"target":976834,"since_seen_ms":9540}
