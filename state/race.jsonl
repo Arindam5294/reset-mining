@@ -5272,3 +5272,21 @@
 {"t":"2026-11-21T06:31:21.547Z","step":"lost","net_tip":976861,"target":976861,"since_seen_ms":3710}
 {"t":"2026-11-21T06:34:05.168Z","step":"lost","net_tip":976862,"target":976862,"since_seen_ms":3720}
 {"t":"2026-11-21T06:41:17.409Z","step":"lost","net_tip":976863,"target":976863,"since_seen_ms":3718}
+{"t":"2026-11-21T06:44:52.878Z","step":"post","why":"heartbeat","error":true,"ms":2933,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43187 is unavailable. Try again later or set another source."}
+{"t":"2026-11-21T06:45:25.579Z","step":"post","why":"heartbeat","error":true,"ms":2700,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43187 is unavailable. Try again later or set another source."}
+{"t":"2026-11-21T06:45:58.271Z","step":"post","why":"heartbeat","error":true,"ms":2692,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43187 is unavailable. Try again later or set another source."}
+{"t":"2026-11-21T06:46:30.972Z","step":"post","why":"heartbeat","error":true,"ms":2700,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43187 is unavailable. Try again later or set another source."}
+{"t":"2026-11-21T06:47:03.602Z","step":"post","why":"heartbeat","error":true,"ms":2631,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43187 is unavailable. Try again later or set another source."}
+{"t":"2026-11-21T06:47:36.241Z","step":"post","why":"heartbeat","error":true,"ms":2639,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43187 is unavailable. Try again later or set another source."}
+{"t":"2026-11-21T06:48:09.374Z","step":"post","why":"heartbeat","error":true,"ms":3134,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43187 is unavailable. Try again later or set another source."}
+{"t":"2026-11-21T06:48:42.129Z","step":"post","why":"heartbeat","error":true,"ms":2753,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43187 is unavailable. Try again later or set another source."}
+{"t":"2026-11-21T06:49:14.763Z","step":"post","why":"heartbeat","error":true,"ms":2633,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43187 is unavailable. Try again later or set another source."}
+{"t":"2026-11-21T06:49:47.408Z","step":"post","why":"heartbeat","error":true,"ms":2646,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43187 is unavailable. Try again later or set another source."}
+{"t":"2026-11-21T06:50:20.036Z","step":"post","why":"heartbeat","error":true,"ms":2628,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43187 is unavailable. Try again later or set another source."}
+{"t":"2026-11-21T06:50:53.303Z","step":"post","why":"heartbeat","error":true,"ms":3266,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43187 is unavailable. Try again later or set another source."}
+{"t":"2026-11-21T06:51:25.933Z","step":"post","why":"heartbeat","error":true,"ms":2630,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43187 is unavailable. Try again later or set another source."}
+{"t":"2026-11-21T06:51:58.623Z","step":"post","why":"heartbeat","error":true,"ms":2690,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43187 is unavailable. Try again later or set another source."}
+{"t":"2026-11-21T06:52:31.282Z","step":"post","why":"heartbeat","error":true,"ms":2659,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43187 is unavailable. Try again later or set another source."}
+{"t":"2026-11-21T06:53:03.920Z","step":"post","why":"heartbeat","error":true,"ms":2638,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43187 is unavailable. Try again later or set another source."}
+{"t":"2026-11-21T06:53:36.612Z","step":"post","why":"heartbeat","error":true,"ms":2692,"since_seen_ms":null,"raw":"The Bitcoin header source http://127.0.0.1:43187 is unavailable. Try again later or set another source."}
+{"t":"2026-11-21T07:01:37.662Z","step":"lost","net_tip":976864,"target":976864,"since_seen_ms":4453}
