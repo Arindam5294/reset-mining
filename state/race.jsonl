@@ -5249,3 +5249,4 @@
 {"t":"2026-11-21T03:48:02.639Z","step":"lost","net_tip":976837,"target":976837,"since_seen_ms":4477}
 {"t":"2026-11-21T04:09:53.107Z","step":"lost","net_tip":976839,"target":976839,"since_seen_ms":3907}
 {"t":"2026-11-21T04:12:06.380Z","step":"lost","net_tip":976840,"target":976840,"since_seen_ms":4827}
+{"t":"2026-11-21T04:25:52.017Z","step":"race_end","calls":827,"posted":0}
