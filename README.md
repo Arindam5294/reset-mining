@@ -4,18 +4,18 @@
 
 <!-- status:start -->
 ## Live status
-Updated **2026-11-22 10:15 UTC** (every 15 min)
+Updated **2026-11-22 10:30 UTC** (every 15 min)
 
 | | |
 |---|---|
 | Balance | **0.01000000 RESET** |
 | Locked (mining) | **0.00000000 RESET** |
 | Progress to 0.1 minimum | 10% |
-| Mine round | 1222 (claim window closed) |
+| Mine round | 1223 (claim window closed) |
 | This round's claim | none |
 | Strikes | 0 |
 | Header posts won (logged) | 0 |
-| Bitcoin tip | 977034 |
+| Bitcoin tip | 977039 |
 
 [Full activity log](state/activity.jsonl)
 <!-- status:end -->
