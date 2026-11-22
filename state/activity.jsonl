@@ -6132,3 +6132,5 @@
 {"t":"2026-11-22T13:30:27.471Z","step":"pass","tip":977059,"counted":977054,"round":1227,"window_open":true,"balance":"0.01000000","deposit":"0.00000000","claim":null,"strikes":0,"exits":0}
 {"t":"2026-11-22T13:45:28.348Z","step":"post_headers","outcome":"nothing_new","tip":977060}
 {"t":"2026-11-22T13:45:28.349Z","step":"pass","tip":977060,"counted":977055,"round":1227,"window_open":true,"balance":"0.01000000","deposit":"0.00000000","claim":null,"strikes":0,"exits":0}
+{"t":"2026-11-22T14:00:36.584Z","step":"post_headers","outcome":"The Bitcoin header source https://mempool.space is unavailable. Try again later or set another source."}
+{"t":"2026-11-22T14:00:36.584Z","step":"pass","tip":977063,"counted":977058,"round":1227,"window_open":false,"balance":"0.01000000","deposit":"0.00000000","claim":null,"strikes":0,"exits":0}
