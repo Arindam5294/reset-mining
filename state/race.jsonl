@@ -5677,3 +5677,4 @@
 {"t":"2026-11-23T17:19:00.943Z","step":"post","why":"heartbeat","error":true,"ms":5001,"since_seen_ms":null,"raw":"Service unavailable or invalid response. Check the configured connection."}
 {"t":"2026-11-23T17:23:27.291Z","step":"post","why":"push:mempool.space:977241","error":true,"ms":6491,"since_seen_ms":6307,"first_seen":"https://mempool.space","ok":false,"outcome":"unknown","headers":1,"from_height":977242,"to_height":977242,"source_height":977242,"source":"http://127.0.0.1:33615","message":"No reliable submission result was received. Check status and settlement before retrying; this action may already have been accepted."}
 {"t":"2026-11-23T17:23:27.291Z","step":"lost","net_tip":977241,"target":977241,"since_seen_ms":9794}
+{"t":"2026-11-23T17:24:01.131Z","step":"lost","net_tip":977242,"target":977242,"since_seen_ms":40147}
