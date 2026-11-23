@@ -5631,3 +5631,4 @@
 {"t":"2026-11-23T13:12:45.390Z","step":"post","why":"push:mempool.space:977208","error":true,"ms":1694,"since_seen_ms":null,"raw":"State changed during puzzle work; try again with fresh state"}
 {"t":"2026-11-23T13:12:45.968Z","step":"post","why":"push:mempool.space:977208","error":true,"ms":3372,"since_seen_ms":3374,"first_seen":"https://mempool.space","ok":false,"outcome":"rejected","headers":1,"from_height":977208,"to_height":977208,"source_height":977208,"source":"http://127.0.0.1:42405","message":"The network already has these headers."}
 {"t":"2026-11-23T13:12:47.226Z","step":"lost","net_tip":977208,"target":977208,"since_seen_ms":4632}
+{"t":"2026-11-23T13:31:57.728Z","step":"lost","net_tip":977209,"target":977209,"since_seen_ms":3732}
