@@ -5753,9 +5753,8 @@
 {"t":"2026-11-24T02:20:33.839Z","step":"lost","net_tip":977311,"target":977311,"since_seen_ms":3833}
 {"t":"2026-11-24T02:37:13.467Z","step":"lost","net_tip":977313,"target":977313,"since_seen_ms":3739}
 {"t":"2026-11-24T03:12:20.747Z","step":"lost","net_tip":977314,"target":977314,"since_seen_ms":3838}
-{"t":"2026-11-24T03:19:10.641Z","step":"race_start","v":3,"minutes":340,"poll_ms":2000,"lanes":4,"gap_ms":1100,"sources":["https://mempool.space","https://blockstream.info","https://mempool.emzy.de"]}
-{"t":"2026-11-24T03:22:47.636Z","step":"lost","net_tip":977315,"target":977315,"since_seen_ms":4030}
-{"t":"2026-11-24T03:24:27.762Z","step":"lost","net_tip":977316,"target":977316,"since_seen_ms":4017}
-{"t":"2026-11-24T03:49:42.869Z","step":"lost","net_tip":977317,"target":977317,"since_seen_ms":4452}
-{"t":"2026-11-24T03:58:25.213Z","step":"lost","net_tip":977318,"target":977318,"since_seen_ms":4479}
-{"t":"2026-11-24T03:59:44.107Z","step":"lost","net_tip":977319,"target":977319,"since_seen_ms":4675}
+{"t":"2026-11-24T03:22:40.867Z","step":"lost","net_tip":977315,"target":977315,"since_seen_ms":4112}
+{"t":"2026-11-24T03:24:27.379Z","step":"lost","net_tip":977316,"target":977316,"since_seen_ms":3893}
+{"t":"2026-11-24T03:49:41.086Z","step":"lost","net_tip":977317,"target":977317,"since_seen_ms":3720}
+{"t":"2026-11-24T03:58:24.443Z","step":"lost","net_tip":977318,"target":977318,"since_seen_ms":3713}
+{"t":"2026-11-24T03:59:43.971Z","step":"lost","net_tip":977319,"target":977319,"since_seen_ms":4348}
