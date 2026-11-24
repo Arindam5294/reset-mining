@@ -6582,3 +6582,5 @@
 {"t":"2026-11-24T21:00:29.932Z","step":"status_failed","why":"gateway unavailable","s":"Service unavailable or invalid response. Check the configured connection."}
 {"t":"2026-11-24T21:15:29.585Z","step":"post_headers","outcome":"nothing_new","tip":977415}
 {"t":"2026-11-24T21:15:29.586Z","step":"pass","tip":977415,"counted":977410,"round":1286,"window_open":true,"balance":"0.01000000","deposit":"0.00000000","claim":null,"strikes":0,"exits":0}
+{"t":"2026-11-24T21:30:27.438Z","step":"post_headers","outcome":"nothing_new","tip":977417}
+{"t":"2026-11-24T21:30:27.438Z","step":"pass","tip":977417,"counted":977412,"round":1286,"window_open":false,"balance":"0.01000000","deposit":"0.00000000","claim":null,"strikes":0,"exits":0}
