@@ -6700,3 +6700,5 @@
 {"t":"2026-11-25T11:45:26.221Z","step":"pass","tip":977511,"counted":977506,"round":1302,"window_open":true,"balance":"0.01000000","deposit":"0.00000000","claim":null,"strikes":0,"exits":0}
 {"t":"2026-11-25T12:00:30.727Z","step":"post_headers","outcome":"nothing_new","tip":977511}
 {"t":"2026-11-25T12:00:30.727Z","step":"pass","tip":977511,"counted":977506,"round":1302,"window_open":true,"balance":"0.01000000","deposit":"0.00000000","claim":null,"strikes":0,"exits":0}
+{"t":"2026-11-25T12:15:32.851Z","step":"post_headers","outcome":"nothing_new","tip":977514}
+{"t":"2026-11-25T12:15:32.851Z","step":"pass","tip":977514,"counted":977509,"round":1302,"window_open":false,"balance":"0.01000000","deposit":"0.00000000","claim":null,"strikes":0,"exits":0}
