@@ -6029,3 +6029,4 @@
 {"t":"2026-11-25T22:23:15.953Z","step":"lost","net_tip":977579,"target":977579,"since_seen_ms":3860}
 {"t":"2026-11-25T22:30:41.588Z","step":"lost","net_tip":977580,"target":977580,"since_seen_ms":3847}
 {"t":"2026-11-25T22:51:52.678Z","step":"lost","net_tip":977581,"target":977581,"since_seen_ms":3858}
+{"t":"2026-11-25T22:55:46.881Z","step":"lost","net_tip":977582,"target":977582,"since_seen_ms":4096}
