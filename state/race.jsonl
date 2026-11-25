@@ -5937,3 +5937,4 @@
 {"t":"2026-11-25T09:03:28.920Z","step":"post","why":"push:mempool.space:977490","error":true,"ms":4425,"since_seen_ms":4924,"first_seen":"https://mempool.space","ok":false,"outcome":"rejected","headers":1,"from_height":977490,"to_height":977490,"source_height":977490,"source":"http://127.0.0.1:45593","message":"The network already has these headers."}
 {"t":"2026-11-25T09:03:28.921Z","step":"post","why":"push:mempool.space:977490","error":true,"ms":3327,"since_seen_ms":4925,"first_seen":"https://mempool.space","ok":false,"outcome":"rejected","headers":1,"from_height":977490,"to_height":977490,"source_height":977490,"source":"http://127.0.0.1:45593","message":"The network already has these headers."}
 {"t":"2026-11-25T09:03:28.921Z","step":"lost","net_tip":977490,"target":977490,"since_seen_ms":4925}
+{"t":"2026-11-25T09:13:48.161Z","step":"lost","net_tip":977491,"target":977491,"since_seen_ms":4652}
