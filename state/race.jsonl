@@ -5934,3 +5934,6 @@
 {"t":"2026-11-25T08:24:51.951Z","step":"lost","net_tip":977487,"target":977487,"since_seen_ms":4158}
 {"t":"2026-11-25T08:57:45.357Z","step":"lost","net_tip":977488,"target":977488,"since_seen_ms":3873}
 {"t":"2026-11-25T09:03:23.949Z","step":"lost","net_tip":977489,"target":977489,"since_seen_ms":3856}
+{"t":"2026-11-25T09:03:28.920Z","step":"post","why":"push:mempool.space:977490","error":true,"ms":4425,"since_seen_ms":4924,"first_seen":"https://mempool.space","ok":false,"outcome":"rejected","headers":1,"from_height":977490,"to_height":977490,"source_height":977490,"source":"http://127.0.0.1:45593","message":"The network already has these headers."}
+{"t":"2026-11-25T09:03:28.921Z","step":"post","why":"push:mempool.space:977490","error":true,"ms":3327,"since_seen_ms":4925,"first_seen":"https://mempool.space","ok":false,"outcome":"rejected","headers":1,"from_height":977490,"to_height":977490,"source_height":977490,"source":"http://127.0.0.1:45593","message":"The network already has these headers."}
+{"t":"2026-11-25T09:03:28.921Z","step":"lost","net_tip":977490,"target":977490,"since_seen_ms":4925}
