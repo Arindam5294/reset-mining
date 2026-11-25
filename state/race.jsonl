@@ -6004,3 +6004,4 @@
 {"t":"2026-11-25T19:12:27.196Z","step":"lost","net_tip":977556,"target":977556,"since_seen_ms":4470}
 {"t":"2026-11-25T19:16:34.440Z","step":"lost","net_tip":977557,"target":977557,"since_seen_ms":4202}
 {"t":"2026-11-25T19:17:48.008Z","step":"lost","net_tip":977558,"target":977558,"since_seen_ms":3949}
+{"t":"2026-11-25T19:25:27.990Z","step":"race_end","calls":778,"posted":0}
