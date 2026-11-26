@@ -6128,3 +6128,4 @@
 {"t":"2026-11-26T13:31:02.198Z","step":"lost","net_tip":977680,"target":977680,"since_seen_ms":3943}
 {"t":"2026-11-26T13:32:23.965Z","step":"lost","net_tip":977681,"target":977681,"since_seen_ms":4368}
 {"t":"2026-11-26T13:36:31.102Z","step":"lost","net_tip":977682,"target":977682,"since_seen_ms":3958}
+{"t":"2026-11-26T13:47:56.971Z","step":"lost","net_tip":977683,"target":977683,"since_seen_ms":3875}
