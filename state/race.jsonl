@@ -6088,3 +6088,4 @@
 {"t":"2026-11-26T06:30:40.060Z","step":"lost","net_tip":977638,"target":977638,"since_seen_ms":3792}
 {"t":"2026-11-26T06:33:54.700Z","step":"lost","net_tip":977639,"target":977639,"since_seen_ms":4214}
 {"t":"2026-11-26T06:37:14.000Z","step":"lost","net_tip":977641,"target":977641,"since_seen_ms":3898}
+{"t":"2026-11-26T06:55:41.082Z","step":"race_end","calls":786,"posted":0}
