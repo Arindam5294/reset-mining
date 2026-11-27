@@ -6260,3 +6260,4 @@
 {"t":"2026-11-27T17:12:58.281Z","step":"lost","net_tip":977824,"target":977824,"since_seen_ms":4042}
 {"t":"2026-11-27T17:14:43.727Z","step":"lost","net_tip":977825,"target":977825,"since_seen_ms":4038}
 {"t":"2026-11-27T17:15:09.102Z","step":"lost","net_tip":977826,"target":977826,"since_seen_ms":4039}
+{"t":"2026-11-27T17:26:01.766Z","step":"race_end","calls":734,"posted":0}
