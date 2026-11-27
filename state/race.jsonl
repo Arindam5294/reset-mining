@@ -6192,3 +6192,6 @@
 {"t":"2026-11-27T03:43:29.398Z","step":"lost","net_tip":977748,"target":977748,"since_seen_ms":4558}
 {"t":"2026-11-27T03:47:50.917Z","step":"lost","net_tip":977749,"target":977749,"since_seen_ms":3791}
 {"t":"2026-11-27T03:58:43.734Z","step":"lost","net_tip":977750,"target":977750,"since_seen_ms":3743}
+{"t":"2026-11-27T04:17:03.804Z","step":"post","why":"push:mempool.space:977751","error":true,"ms":326,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-11-27T04:17:04.929Z","step":"post","why":"push:mempool.space:977751","error":true,"ms":351,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-11-27T04:17:04.929Z","step":"lost","net_tip":977751,"target":977751,"since_seen_ms":3652}
