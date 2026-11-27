@@ -6195,3 +6195,6 @@
 {"t":"2026-11-27T04:17:03.804Z","step":"post","why":"push:mempool.space:977751","error":true,"ms":326,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
 {"t":"2026-11-27T04:17:04.929Z","step":"post","why":"push:mempool.space:977751","error":true,"ms":351,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
 {"t":"2026-11-27T04:17:04.929Z","step":"lost","net_tip":977751,"target":977751,"since_seen_ms":3652}
+{"t":"2026-11-27T04:17:35.264Z","step":"post","why":"heartbeat","error":true,"ms":320,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-11-27T04:18:05.662Z","step":"post","why":"heartbeat","error":true,"ms":397,"since_seen_ms":null,"raw":"Service returned invalid JSON."}
+{"t":"2026-11-27T04:31:38.086Z","step":"lost","net_tip":977752,"target":977752,"since_seen_ms":3786}
