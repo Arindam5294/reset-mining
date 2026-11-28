@@ -6328,3 +6328,4 @@
 {"t":"2026-11-28T04:19:44.557Z","step":"lost","net_tip":977893,"target":977893,"since_seen_ms":3808}
 {"t":"2026-11-28T04:29:45.491Z","step":"lost","net_tip":977894,"target":977894,"since_seen_ms":3792}
 {"t":"2026-11-28T04:32:03.269Z","step":"lost","net_tip":977895,"target":977895,"since_seen_ms":3875}
+{"t":"2026-11-28T04:32:25.827Z","step":"lost","net_tip":977896,"target":977896,"since_seen_ms":3755}
